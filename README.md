@@ -4,21 +4,22 @@ This is a TV show reminder mobile app developed using Flutter.
 
 
 ## All Functions in App: 
-• Tv Channels List Function – Add, Update, Delete, View
-• Tv Show/ Series List Function - Add, Update, Delete, View
-• Tv Show/ Series Reminder Function - Add, Update, Delete, View
-• Tv Show/ Series Wish List Function - Add, Update, Delete, View
-• Tv Show/ Series Comment Function - Add, Update, Delete, View
-• User Profiles – Add, View, Delete – (From Admin Side)
-• User Register and Login - Create, Update, Delete – (From User Side)
-• Admin Register and Login - Create, Update, Delete – (From Admin Side)
-• Tab Management – Main Home Tabs - Add, Update, Delete, View
-• Admin Tabs - Add, Update, Delete, View
-• User Tabs - Add, Update, Delete, View
-• Profile Tabs - Add, Update, Delete, View
-• Update Password
-• Reset Password
-• Splash Screen
+-  Tv Channels List Function – Add, Update, Delete, View
+-  Tv Show/ Series List Function - Add, Update, Delete, View
+-  Tv Show/ Series Reminder Function - Add, Update, Delete, View
+-  Tv Show/ Series Wish List Function - Add, Update, Delete, View
+-  Tv Show/ Series Comment Function - Add, Update, Delete, View
+-  User Profiles – Add, View, Delete – (From Admin Side)
+-  User Register and Login - Create, Update, Delete – (From User Side)
+-  Admin Register and Login - Create, Update, Delete – (From Admin Side)
+-  Tab Management – Main Home Tabs - Add, Update, Delete, View
+-  Admin Tabs - Add, Update, Delete, View
+-  User Tabs - Add, Update, Delete, View
+-  Profile Tabs - Add, Update, Delete, View
+-  Update Password
+-  Reset Password
+-  Splash Screen
+
 
 
 ## Screenshots
