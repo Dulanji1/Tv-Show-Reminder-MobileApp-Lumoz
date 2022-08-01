@@ -7,7 +7,7 @@ This is a TV show reminder mobile app developed using Flutter.
 ## Screenshots
 
 
-<img width="600" hight="500" alt=" " src="/resources/0.png">
+<img width="250" hight="400" alt=" " src="/resources/0.png">
 <img width="600" hight="500" alt=" " src="/resources/1.png">
 <img width="600" hight="500" alt=" " src="/resources/2.png">
 <img width="600" hight="500" alt=" " src="/resources/3.png">
